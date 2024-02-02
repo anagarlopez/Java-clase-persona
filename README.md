@@ -15,3 +15,4 @@ Agregar dos nuevos atributos a la clase Persona.
 Un atributo que represente el país de nacimiento de la persona (de tipo String) y otro que identifique el género de la persona, el cual debe representarse como un char con valores 'H' , 'M', ‘O’.
 Modificar el constructor de la clase Persona para que inicialice estos dos nuevos atributos.
 Modificar el método imprimir de la clase Persona para que muestre en pantalla los valores de los nuevos atributos.
+<img width="1680" alt="Captura de Pantalla 2024-02-02 a las 1 00 18" src="https://github.com/anagarlopez/Java-clase-persona/assets/146724647/8d8e0172-a524-4711-9039-23ab74c3666b">
